@@ -1,4 +1,7 @@
 #Demo Project README
 This is a simple readme file
-i hope this isent much of a problem
+<<<<<<< HEAD
+=======
+this will cause truoble
+>>>>>>> very-bad
 just some updates on a branch.
